@@ -1,0 +1,37 @@
+Xft.dpi: 192
+Xcursor.size: 32
+
+! URxvt
+URxvt*font: xft:Noto Sans Mono Light:size=10
+URxvt*foreground: #dddddd
+URxvt*background: #222222
+URxvt.scrollBar: false
+URxvt.perl-ext-common: font-size
+URxvt.transparent: true
+URxvt.shading: 32
+
+! black
+URxvt.color0:  #404040
+URxvt.color8:  #707070
+! red
+URxvt.color1:  #E88383
+URxvt.color9:  #FAA0A0
+! green
+URxvt.color2:  #90BA97
+URxvt.color10: #AAD4AC
+! yellow
+URxvt.color3:  #F8D779
+URxvt.color11: #FFE385
+! blue
+URxvt.color4:  #72A3CC
+URxvt.color12: #83B4DD
+! magenta
+URxvt.color5:  #CEA6CE
+URxvt.color13: #DCB2DC
+! cyan
+URxvt.color6:  #6ED1CD
+URxvt.color14: #80DBDC
+! white
+URxvt.color7:  #C6C6C6
+URxvt.color15: #DCDCDC
+
